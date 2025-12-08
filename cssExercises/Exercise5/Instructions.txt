@@ -1,0 +1,11 @@
+
+Exercise 5: Combinators
+Understanding how combinators work can become a lot easier when you start playing around with them and see what exactly is affected by them versus what isn’t.
+
+The goal of this exercise is to apply styles to elements that are descendants of another element, while leaving elements that aren’t descendants of that element unstyled.
+
+Goals
+You should see a yellow background for p elements that are descendants of the div element.
+You should see a text color of red for elements that are descendants of the div element.
+You should see a font size of 20px for elements that are descendants of the div element.
+You should center align text for elements that are descendants of the div element.
